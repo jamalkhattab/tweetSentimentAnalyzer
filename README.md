@@ -9,7 +9,7 @@ Python script that performs sentiment analysis on tweets.
 ## Tweets Retrieval
 The code retrieves 100 tweets about Microsoft Azure, however, the number of tweets and the topic can be changed depending on use case.
 
-## Authentication for Microsoft Azure Blob Storage and Twitter APIs
+## Authentication for Microsoft Azure Blob Storage and Twitter API
 Replace the following information:
 * Azure
   * connect_str
