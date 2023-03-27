@@ -19,3 +19,9 @@ Replace the following information:
   * consumer_secret
   * access_token
   * access_token_secret
+
+## Architecture
+This code is used as part of the following architecture:
+
+
+![alt text](architecture_final_outcome.png)
